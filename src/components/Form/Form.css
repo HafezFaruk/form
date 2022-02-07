@@ -1,0 +1,48 @@
+.form-bg {
+  background-image: url(../form-bg..png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  padding: 300px 0;
+}
+.bg-tran {
+  background-image: url(../form-tr..png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  padding: 20px 0;
+}
+
+.my-btn {
+  border: none;
+  padding: 18px 30px;
+  border-radius: 10px 0 0 10px;
+  background-color: #8c30f5;
+}
+.my-input {
+  border: none;
+  padding: 6px 0;
+}
+
+.connect-wallet {
+  background-color: #8c30f5;
+  padding: 8px 20px;
+  color: #fff;
+  border-radius: 10px;
+}
+.my-color {
+  background-color: #8c30f5;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  color: #fff;
+  border: 1px solid #8c30f5;
+  font-weight: 900;
+}
+
+.midel-input {
+  width: 2.5rem;
+  height: 1.3rem;
+  margin: 0 3px;
+  border-radius: 10px;
+  border: 1px solid #8c30f5;
+  text-align: center;
+}
