@@ -12,9 +12,9 @@ const Form = () => {
         </div>
         <span>1000/1000 Minted</span>
         <div>
-          <button className="my-color">+</button>
+          <span className="my-color increment">-</span>
           <input className="midel-input" type="text" value={num}/>
-          <button className="my-color">-</button>
+          <span className="my-color">+</span>
         </div>
         <p>Current cost: per token</p>
         <span className="connect-wallet">Disconnect</span>

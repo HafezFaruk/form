@@ -31,13 +31,16 @@
 .my-color {
   background-color: #8c30f5;
   border-radius: 50%;
-  width: 25px;
-  height: 25px;
+  height: 10px;
+  width: 10px;
   color: #fff;
-  border: 1px solid #8c30f5;
+  font-size: 20px;
   font-weight: 900;
+  padding: 0 7px 2px 6px;
 }
-
+.increment{
+    padding: 0 9px 2px 9px;
+}
 .midel-input {
   width: 2.5rem;
   height: 1.3rem;
