@@ -7,10 +7,10 @@ const Form = () => {
     setNum(num+1)
   } 
   const decrease = () => {
-    if (num < 0) {
-      setNum(num - 1);
+    if (num <= 1) {
+      setNum(1);
     } else {
-      setNum(0);
+      setNum(num-1);
     }
   }; 
 
