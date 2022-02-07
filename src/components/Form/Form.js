@@ -39,7 +39,7 @@ const Form = () => {
         <span className="connect-wallet">Disconnect</span>
       </div>
 
-      <div className="bg-tran mt-5">
+      <div className="bg-tran mt-4">
         <h4 className="text-uppercase  text-white">play genx</h4>
         <br />
         <span className="connect-wallet">Connect Wallet</span>
