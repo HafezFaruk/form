@@ -2,7 +2,7 @@
   background-image: url(../form-bg..png);
   background-repeat: no-repeat;
   background-position: center center;
-  padding: 300px 0;
+  padding: 5.1rem 0;
 }
 .bg-tran {
   background-image: url(../form-tr..png);
@@ -10,7 +10,12 @@
   background-position: center center;
   padding: 20px 0;
 }
-
+.stGen{
+  background-color: #fff;
+  padding: 5px;
+  display: inline-block;
+  border-radius: 10px;
+}
 .my-btn {
   border: none;
   padding: 18px 30px;
@@ -20,6 +25,10 @@
 .my-input {
   border: none;
   padding: 6px 0;
+  padding-left: 10px;
+}
+.my-input:focus {
+  outline: none;
 }
 
 .connect-wallet {
@@ -31,10 +40,8 @@
 .my-color {
   background-color: #8c30f5;
   border-radius: 50%;
-  height: 10px;
-  width: 10px;
+  border: none;
   color: #fff;
-  font-size: 20px;
   font-weight: 900;
   padding: 0 7px 2px 6px;
 }
